@@ -32,7 +32,8 @@
 
 
 
-
+<h3 class="heading-element" dir="auto">✍️ Random Dev Quote</h3>
+<p><i><strong></strong>"In order to be irreplaceable, one must always be different." <br> - Coco Chanel<strong></i></p>
 
 
 
