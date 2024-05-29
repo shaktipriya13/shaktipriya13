@@ -39,3 +39,21 @@
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🏆 GitHub Trophies</h2><a id="user-content--github-trophies" class="anchor" aria-label="Permalink: 🏆 GitHub Trophies" href="#-github-trophies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/167cae6746b07bb2debdaa36305b2716094b0fc023c052296486d2dd04154edf/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4172696f6e446173267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34"><img src="https://camo.githubusercontent.com/167cae6746b07bb2debdaa36305b2716094b0fc023c052296486d2dd04154edf/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4172696f6e446173267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ArionDas&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" style="max-width: 100%;"></a>
+
+
+
+
+
+
+
+# GitHub Contribution Snake
+
+## Light Mode
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shaktipriya13/shaktipriya13/output/github-contribution-grid-snake.svg)
+
+## Dark Mode
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shaktipriya13/shaktipriya13/output/github-contribution-grid-snake-dark.svg)
+
+## GIF Version
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shaktipriya13/shaktipriya13/output/github-contribution-grid-snake.gif)
+
