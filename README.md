@@ -1,5 +1,13 @@
 [![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)]
-<h1 align="center">Hi 👋, I'm Shakti Priya</h1>
+<!--<h1 align="center">Hi 👋, I'm Shakti Priya</h1>  -->
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakti+Priya!;" />
+</h1>
+
+
+
+
 <h3 align="center">A passionate Full stack web developer💻 (HTML, CSS, Javascript, React, Nodejs, Express JS,MongoDB, Git,Github) from India</h3>
 <h4><i>Eager to partner on exemplary projects and deliver exceptional results...</i></h4>
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
