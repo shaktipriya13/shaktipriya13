@@ -44,8 +44,8 @@
 
 
 
-
-
+<!-- This is a single-line comment -->
+<!--
 # GitHub Contribution Snake
 
 ## Light Mode
@@ -57,3 +57,4 @@
 ## GIF Version
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/shaktipriya13/shaktipriya13/output/github-contribution-grid-snake.gif)
 
+-->
