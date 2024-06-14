@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">A passionate Full stack web developer💻 (HTML, CSS, Javascript, React, Nodejs, Express JS,MongoDB, Git,Github) from India</h3>
+<h3 align="center">A passionate Full stack web developer💻 & DSA Enthusiast from India</h3>
 <h4><i>Eager to partner on exemplary projects and deliver exceptional results...</i></h4>
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
