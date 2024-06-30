@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/shakti_priya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shakti_priya/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shakti2028xls/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shakti2028xls/" height="30" width="40" /></a>
 </p>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dfeaa220cfbdff08300d1f4e8da8262c6891c98f2490d7001d1390ed6e3dcf60/68747470733a2f2f692e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e77656270"><img src="https://camo.githubusercontent.com/dfeaa220cfbdff08300d1f4e8da8262c6891c98f2490d7001d1390ed6e3dcf60/68747470733a2f2f692e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e77656270" width="30" data-canonical-src="https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" style="max-width: 100%;"></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> -->
