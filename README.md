@@ -1,5 +1,10 @@
+<h1 align="center">I believe <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> Where Logic Meets Creativity </h1>
+
 [![MasterHead](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)]
 <!--<h1 align="center">Hi 👋, I'm Shakti Priya</h1>  -->
+
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakti+Priya!;" />
