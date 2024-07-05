@@ -67,7 +67,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/167cae6746b07bb2debdaa36305b2716094b0fc023c052296486d2dd04154edf/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4172696f6e446173267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34"><img src="https://camo.githubusercontent.com/167cae6746b07bb2debdaa36305b2716094b0fc023c052296486d2dd04154edf/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4172696f6e446173267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ArionDas&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" style="max-width: 100%;"></a>
 
 
-![GitHub Snake Animation](https://github.com/shaktipriya13/shaktipriya13/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
