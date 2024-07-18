@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms✌️**
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me **priyashakti68@gmail.com**
-- ⚡ Fun fact I became Miss IIIT✨ @IIIT Ranchi. Also I secured an AIR of 25511 in JEE Mains 2022.
+- ⚡ About me : I became Miss IIIT✨ @IIIT Ranchi. Also I secured an AIR of 25511 in JEE Mains 2022.
 
 
 
