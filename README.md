@@ -36,8 +36,6 @@
 
 ✨ **Let’s build something amazing together!** 🚀
 
-Would you like any further tweaks?
-
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
