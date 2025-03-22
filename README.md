@@ -19,11 +19,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaktipriya13&label=Profile%20views&color=0e75b6&style=flat" alt="shaktipriya13" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms✌️**
-- 👯 I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me **priyashakti68@gmail.com**
-- ⚡ About me : I became Miss IIIT✨ @IIIT Ranchi. Also I secured an AIR of 25511 in JEE Mains 2022.
+- Here’s a smart and appealing version of your README section:
 
+---
+
+
+
+- 🌟 **Google Girl Hackathon 2k25 Semi-Finalist**  
+- 🌱 Currently mastering **Data Structures & Algorithms ✌️**  
+- 👯 Open to collaborating on **Web Development Projects**  
+- 📫 Reach me at: **priyashakti68@gmail.com**  
+- ⚡ **About Me:** Crowned **Miss IIIT✨ @IIIT Ranchi** and achieved an **AIR 25511** in **JEE Mains 2022**.  
+- 🪶 **Randomzz:** For me, **coding isn’t just a profession—it’s a passion!**  
+
+---
+
+✨ **Let’s build something amazing together!** 🚀
+
+Would you like any further tweaks?
 
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
